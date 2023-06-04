@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
 ## Run Project:
-### Frontend : Open terminal and go to root directory which is mern-todo, then type in terminal "npm install" and after that type "npm start"
+### Frontend : Open terminal and go to root directory which is mern-restaurant, then type in terminal "npm install" and after that type "npm start"
 
-### Backend: Open terminal and go to root directory which is mern-todo, then type in terminal "cd backend" and then write "npm install" and then "nodemon index.jx"
+### Backend: Open terminal and go to root directory which is mern-restaurant, then type in terminal "cd backend" and then type "npm install" and then type "nodemon index.jx"
 
 ### You must have MongoDBCompass Installed!
 
